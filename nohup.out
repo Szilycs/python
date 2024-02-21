@@ -1,0 +1,244 @@
+
+  \{^_^}/ hi!
+
+  Loading cars.json
+  Done
+
+  Resources
+  http://localhost:3000/cars
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  Error, can't read from stdin
+  Creating a snapshot from the CLI won't be possible
+[0mGET /cars/5 [32m200[0m 26.990 ms - 100[0m
+[0mGET /cars/5 [32m200[0m 4.541 ms - 100[0m
+[0mPUT /cars/5 [32m200[0m 25.506 ms - 101[0m
+[0mGET /cars/5 [32m200[0m 5.917 ms - 101[0m
+
+  \{^_^}/ hi!
+
+  Loading cars.json
+  Done
+
+  Resources
+  http://localhost:3000/cars
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  Error, can't read from stdin
+  Creating a snapshot from the CLI won't be possible
+
+  \{^_^}/ hi!
+
+  Loading database.json
+  Oops, database.json doesn't seem to exist
+  Creating database.json with some default data
+
+  Done
+
+  Resources
+  http://localhost:3000/posts
+  http://localhost:3000/comments
+  http://localhost:3000/profile
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  Error, can't read from stdin
+  Creating a snapshot from the CLI won't be possible
+
+  \{^_^}/ hi!
+
+  Loading database.json
+  Done
+
+  Resources
+  http://localhost:3000/posts
+  http://localhost:3000/comments
+  http://localhost:3000/profile
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  Error, can't read from stdin
+  Creating a snapshot from the CLI won't be possible
+
+  \{^_^}/ hi!
+
+  Loading database.json
+  Done
+
+  Resources
+  http://localhost:3000/posts
+  http://localhost:3000/comments
+  http://localhost:3000/profile
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  Error, can't read from stdin
+  Creating a snapshot from the CLI won't be possible
+
+  \{^_^}/ hi!
+
+  Loading databases.json
+  Oops, databases.json doesn't seem to exist
+  Creating databases.json with some default data
+
+  Done
+
+  Resources
+  http://localhost:3000/posts
+  http://localhost:3000/comments
+  http://localhost:3000/profile
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  Error, can't read from stdin
+  Creating a snapshot from the CLI won't be possible
+
+  \{^_^}/ hi!
+
+  Loading databases.json
+  Done
+
+  Resources
+  http://localhost:3000/databases
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  Error, can't read from stdin
+  Creating a snapshot from the CLI won't be possible
+
+  \{^_^}/ hi!
+
+  Loading databases.json
+  Done
+
+  Resources
+  http://localhost:3000/databases
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  Error, can't read from stdin
+  Creating a snapshot from the CLI won't be possible
+
+  \{^_^}/ hi!
+
+  Loading databases.json
+  Done
+
+  Resources
+  http://localhost:3000/databases
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  Error, can't read from stdin
+  Creating a snapshot from the CLI won't be possible
+
+  \{^_^}/ hi!
+
+  Loading databases.json
+  Done
+
+  Resources
+  http://0.0.0.0:3000/databases
+
+  Home
+  http://0.0.0.0:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  Error, can't read from stdin
+  Creating a snapshot from the CLI won't be possible
+
+  \{^_^}/ hi!
+
+  Loading databases.json
+  Done
+
+  Resources
+  http://0.0.0.0:3000/databases
+
+  Home
+  http://0.0.0.0:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  Error, can't read from stdin
+  Creating a snapshot from the CLI won't be possible
+[0mGET /databases [32m200[0m 27.382 ms - 196[0m
+
+  \{^_^}/ hi!
+
+  Loading databases.json
+  Done
+
+  Resources
+  http://0.0.0.0:3000/databases
+
+  Home
+  http://0.0.0.0:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+Some error occurred Error: listen EADDRINUSE: address already in use 0.0.0.0:3000
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at doListen (node:net:1924:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3000
+}
+[0mDELETE /databases/3 [32m200[0m 35.705 ms - 2[0m
+  databases.json has changed, reloading...
+
+  Loading databases.json
+  Done
+
+  Resources
+  http://0.0.0.0:3000/databases
+
+  Home
+  http://0.0.0.0:3000
+

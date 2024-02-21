@@ -1,0 +1,8 @@
+import ncclinet
+from ncclient import manager
+
+hostIP = "devnetsandboxiosxe.cisco.com"
+with mannager.connect (host = hostIP, port ="830", timeout=None, username="admin", password="C1sco12345", hostkeyverify=False) as m:
+	request = m.get_config(source="running").data_xml()
+	with open = ("running.xml","w") as f:
+		f.write(request)

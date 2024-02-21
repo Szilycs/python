@@ -1,0 +1,14 @@
+{
+  "databases": [
+    {
+      "id": 1,
+      "name": "MySQL",
+      "type": "RDBMS"
+    },
+    {
+      "id": 2,
+      "name": "MongoDB",
+      "type": "NoSQL"
+    }
+  ]
+}
